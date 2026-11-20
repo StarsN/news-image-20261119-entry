@@ -2,11 +2,14 @@
 world news of Thursday 19 November 2026.
 
 The picture lives beside this program as entry.png: a front page whose
-masthead names the day, whose lead panel shows GTA VI's worldwide launch,
-and whose smaller panels cover the Strait of Hormuz tanker fires, the
-Beijing summit of the Chinese, US and Russian leaders, the World Court's
-Myanmar judgment, Voyager 1 reaching one light-day from Earth and the
-record $190.4M Van Gogh sale, with a ticker of the day's other stories.
+masthead names the day, whose lead panel reports GTA VI's record $2.36bn
+launch day, and whose smaller panels cover the Strait of Hormuz tanker
+fires, the Shenzhen summit of the Chinese, US and Russian leaders and
+its peace declaration, the World Court's genocide verdict against
+Myanmar, NASA's confirmation of Voyager 1 at one light-day from Earth
+and the record $190.4M Van Gogh sale, with a ticker of the day's other
+stories. The picture itself is drawn at build time by draw_entry.py;
+this program never draws.
 
 The program's whole job is to deliver those exact bytes to the grader:
 read entry.png from this repository and write it, unchanged, as
